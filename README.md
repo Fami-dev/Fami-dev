@@ -25,12 +25,12 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fami-dev&theme=tokyonight" alt="Fami's Streak Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Fami-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Fami's General Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fami-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Fami's General Stats" height="180px" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/repo-size/Fami-dev/Fami-dev?style=for-the-badge&color=36BCF7" alt="Repo Size" />
-  <img src="https://img.shields.io/github/followers/Fami-dev?style=for-the-badge&color=8c52ff" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Fami-dev?label=Followers&style=for-the-badge&color=8c52ff&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Fami-dev?label=Total%20Stars&style=for-the-badge&color=36BCF7&logo=github" alt="Stars" />
 </div>
 
 ### 📱 Connect with me
