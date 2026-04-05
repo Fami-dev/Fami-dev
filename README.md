@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fami-dev&show_icons=true&theme=radical" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Fami%20Andara%20haqi&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 # Hi there, I'm Fami Andara haqi! 👋
@@ -24,8 +24,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fami-dev&show_icons=true&theme=tokyonight" alt="Fami's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fami-dev&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fami-dev&theme=tokyonight" alt="Fami's Streak Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fami-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Fami's General Stats" height="180px" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/repo-size/Fami-dev/Fami-dev?style=for-the-badge&color=36BCF7" alt="Repo Size" />
+  <img src="https://img.shields.io/github/followers/Fami-dev?style=for-the-badge&color=8c52ff" alt="Followers" />
 </div>
 
 ### 📱 Connect with me
@@ -39,5 +44,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fami-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Fami-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </div>
