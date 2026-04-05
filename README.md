@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fami-dev&show_icons=true&theme=radical" alt="Header" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fami-dev&show_icons=true&theme=radical" alt="Header" width="100%" />
 </div>
 
 # Hi there, I'm Fami Andara haqi! 👋
@@ -24,8 +24,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fami-dev&show_icons=true&theme=tokyonight" alt="Fami's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fami-dev&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fami-dev&show_icons=true&theme=tokyonight" alt="Fami's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fami-dev&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 ### 📱 Connect with me
@@ -39,5 +39,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fami-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=fami-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </div>
