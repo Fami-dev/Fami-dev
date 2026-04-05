@@ -25,7 +25,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fami-dev&theme=tokyonight" alt="Fami's Streak Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Fami-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Fami's General Stats" height="180px" />
 </div>
 
 <div align="center">
