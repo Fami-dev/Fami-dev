@@ -28,6 +28,10 @@
 </div>
 
 <div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/github/followers/Fami-dev?label=Followers&style=for-the-badge&color=8c52ff&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Fami-dev?label=Total%20Stars&style=for-the-badge&color=36BCF7&logo=github" alt="Stars" />
 </div>
